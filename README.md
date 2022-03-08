@@ -1,10 +1,10 @@
 # Fiftyone Datset Management
 Create high quality datasets. Garbage in, garbage out.
 
-- dataset
-    - images
-        - train
-            - *.jpg
+- dataset  
+    - images  
+        - train  
+            - *.jpg  
         - val
             - *. jpg
     - labels
