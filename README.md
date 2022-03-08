@@ -1,3 +1,15 @@
 # Fiftyone Datset Management
-Make high quality datasets.  
-Garbage in, garbage out.
+Create high quality datasets. Garbage in, garbage out.
+
+- dataset
+    - images
+        - train
+            - *.jpg
+        - val
+            - *. jpg
+    - labels
+        - train
+            - *.txt
+        - val
+            - *.txt
+    - dataset.yaml
