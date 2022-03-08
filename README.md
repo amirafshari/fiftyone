@@ -1,5 +1,7 @@
 # Fiftyone Datset Management
 Create high quality datasets. Garbage in, garbage out.
+
+**Dataset Structure**
 ```
 - dataset  
     - images  
